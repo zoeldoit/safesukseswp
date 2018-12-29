@@ -1,0 +1,2 @@
+# safesukseswp
+contoh safelink wp
